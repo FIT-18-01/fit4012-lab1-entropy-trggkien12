@@ -5,7 +5,7 @@
 ## Mục tiêu bài lab
 Sau khi hoàn thành bài này, sinh viên có thể:
 - Đọc hiểu và chạy được chương trình tính entropy của một chuỗi ký tự.
-- Bổ sung chức năng tính độ dư thừa thông tin dựa trên entropy thực tế.
+- Bổ sung chức năng tính redundancy (độ dư thừa thông tin) dựa trên entropy thực tế.
 - Cài đặt hàm tìm nghịch đảo modulo bằng thuật toán Euclid mở rộng.
 - Tổ chức, kiểm thử và nộp bài bằng GitHub repo.
 
